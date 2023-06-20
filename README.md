@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karabo-Justin
-- 👀 I’m interested in Deveops
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karabomohlamonyane@outlook.com
